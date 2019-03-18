@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>es.upm.miw</groupId>
-    <artifactId>betca-tpv-spring</artifactId>
-    <version>1.3.0-SNAPSHOT</version>
+    <artifactId>betca-tpv-spring2</artifactId>
+    <version>1.2.0</version>
     <packaging>jar</packaging>
 
     <name>betca-tpv-spring</name>
